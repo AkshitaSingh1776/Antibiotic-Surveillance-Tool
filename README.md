@@ -47,6 +47,4 @@ Machine learning models for resistance prediction
 Automated report generation
 
 
-'''bash
-git clone https://github.com/AkshitaSingh1776/Antibiotic-Surveillance-Tool/edit/main/README.md
-'''
+
